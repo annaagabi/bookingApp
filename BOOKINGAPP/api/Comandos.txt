@@ -1,0 +1,14 @@
+Comandos
+npm init -y
+
+yarn add express ou npm i express
+
+// Para proteger as senhas
+npm install bcrypt
+
+// comando que não funcionou
+openssl rand -base64 32
+
+npm install jsonwebtoken
+
+npm install cookie-parser
